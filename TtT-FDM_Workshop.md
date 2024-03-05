@@ -144,7 +144,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ![Goals today](images/targets.png) <!-- width="200px" align="right" -->
 
-Ich möchte mit Ihnen erreichen, dass Sie am Ende des Workshops ...
+Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 * ... beschreiben können, welche Themenaspekte zum Themenkomplex FDM gehören.  
 * ... beschreiben können, weshalb FDM für Forschungsprozesse und GWP von Bedeutung ist.
@@ -163,7 +163,7 @@ Wir werden uns keine speziellen Tools anschauen.
 
 Fachspezifische Aspekte werden nicht behandelt, dürfen von Ihnen aber sehr gerne in die Diskussionen eingebracht werden.
 
-Zum Ende des Workshops nehme ich gerne Ihre Wünsche für weiterführende/vertiefende Workshopthemen auf.
+Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/vertiefende Workshopthemen auf.
 
 ## Agenda
 
@@ -1331,7 +1331,7 @@ Ein gefundener Datensatz muss korrekt zitiert werden:
 
 - **Nach FORCE11-Empfehlung**: Autor*in(nen) (Publikationsjahr): Titel der Forschungsdaten. Datenrepositorium oder Archiv. Version. Weltweit persistenter Identifikator (vorzugsweise als Link)
 
-- **Nach DataCite 2013**: Urheber*in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
+- **Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
 
 ---
 
@@ -1353,7 +1353,7 @@ Ein gefundener Datensatz muss korrekt zitiert werden:
 
 ### Rechtslage einschätzen 
 
-Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizensysteme bekannt sein.
+Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
 Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
 
@@ -1370,7 +1370,7 @@ Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.cre
 >Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/e-learning-technik-in-der-lehre/open-educational-resources/creative-commons/
 >
 >1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht? 
->2. Welches Problem ergiebt sich, wenn wir genau jene Abbildung in diese Präsentation einbauen würden? 
+>2. Welches Problem ergibt sich, wenn wir genau jene Abbildung in diese Präsentation einbauen würden? 
 
 ********************************************************************************
 
